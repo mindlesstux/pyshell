@@ -1,0 +1,26 @@
+{
+    "LOCATION1": {
+        "DEVICE1": {
+            "DNS-IP": "127.0.0.1",
+            "DESC": "Description of device",
+            "CMDS": ["ping", "ping4", "ping6"]
+        },
+        "DEVICE2": {
+            "DNS-IP": "127.0.0.2",
+            "DESC": "Description of device",
+            "CMDS": ["ping", "ping4", "ping6"]
+        }
+    },
+    "LOCATION2": {
+        "DEVICE3": {
+            "DNS-IP": "127.0.0.3",
+            "DESC": "Description of device",
+            "CMDS": ["ping", "ping4", "ping6"]
+        },
+        "DEVICE4": {
+            "DNS-IP": "127.0.0.4",
+            "DESC": "Description of device",
+            "CMDS": ["ping", "ping4", "ping6"]
+        }
+    }
+}
